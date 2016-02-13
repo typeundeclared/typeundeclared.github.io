@@ -1,12 +1,12 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p>{{ site.tagline }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -27,7 +27,7 @@
       {% endfor %}
 
     </nav>
-
+    <p>Made by {{ site.author.name }}.</p>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
