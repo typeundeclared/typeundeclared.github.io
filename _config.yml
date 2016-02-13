@@ -20,9 +20,3 @@ paginate:         5
 
 gems:
    - jekyll-paginate
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/typeundeclared/typeundeclared
