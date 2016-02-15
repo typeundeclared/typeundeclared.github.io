@@ -11,7 +11,7 @@ In the past, I tended to work out a lot more with the intent of building muscle,
 
 *[Enter Rice and Beans]*
 
-I got the idea from, honestly, a couple of Imgur galleries on cheap college food for students (didn't save the link, sorry).  I'm not poor, but I do enjoy a certain amount of frugality, as well as customization in cooking.  I make a big batch Sunday night, and that will last 3-4 days.  I'm still putting my own spin on things, but without further ado:
+I got the idea from, honestly, a couple of Imgur galleries on cheap college food for students (didn't save the link, sorry).  I'm not poor, but I do enjoy a certain amount of frugality, as well as customization in cooking.  I make a big batch Sunday night, and that will last 3-4 days (this is where the laziness comes in).  I'm still putting my own spin on things, but without further ado:
 
 ## The Basics
 
