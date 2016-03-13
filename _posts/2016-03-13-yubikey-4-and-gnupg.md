@@ -1,3 +1,7 @@
+---
+layout: post
+title: Setting up the Yubikey 4, GnuPG Issues
+---
 # Yubikey 4 and GnuPG
 
 I recently decided to purchase two Yubikeys, version 4.  The intent here was to:
