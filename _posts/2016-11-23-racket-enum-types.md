@@ -15,21 +15,29 @@ Coming from Ada, I use enumeration types a *lot*, as you can do a lot of nice th
 
 In Ada, I'd declare something like the following:
 
-    type Task_State is (backlog, open, working, closed, archived);
-    subtype Primary_State is Task_State range open .. closed;
+```ada
+type Task_State is (backlog, open, working, closed, archived);
+subtype Primary_State is Task_State range open .. closed;
+```
 
 The first thing I'd like to do is iterate over Primary States.  Easy to do in Ada:
 
-    for state in Primary_State loop [...] end loop;
+```ada
+for state in Primary_State loop [...] end loop;
+```
 
 So let's define some Typed Racket.  From what I've read, the right way to do this is (ignoring the subtyping for the moment):
 
-    (define-type State (U 'open 'working 'closed))
+```racket
+(define-type State (U 'open 'working 'closed))
+```
 
 Simple enough.  However, I could not figure out how to iterate over those types.  Then I realized that the type system doesn't fully support a truly discrete-_only_ type declaration.  (U .. ) is designed to handle things like:
 
-    (U Number 'nada)
-    (U (Pair Number Number) 'nada)
+```racket
+(U Number 'nada)
+(U (Pair Number Number) 'nada)
+```
 
 So how would one iterate over that?  You can't.  I could define a State-range list:
 
