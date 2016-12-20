@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Typed Racket - Enumerations and other Comments
+tags: software
 ---
 
 I recently spent a bit of time working through some Racket and a simple web application.  I've worked some in Lisp/Scheme in the past (school, specifically), so at first it was refreshing to get back into that swing.  However, I rather quickly ran into one of my least favorite aspects of interpretted code: I really don't like to find out about silly errors (wrong order of arguments, typos, etc) at runtime.  (This, coincidentally, is my least favorite aspect of Python, though I highly appreciate its clarity and comprehensive libraries).

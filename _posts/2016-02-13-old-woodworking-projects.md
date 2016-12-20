@@ -1,6 +1,7 @@
 ---
 title: Old Woodworking Projects
 layout: post
+tags: woodworking
 ---
 This post aggregates some pictures and information about older woodworking projects.  Finished projects only; unfortunately, I don't really have in progress photos for many (sorry).
 

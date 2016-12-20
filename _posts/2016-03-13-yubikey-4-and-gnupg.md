@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up the Yubikey 4, GnuPG Issues
+tags: misc
 ---
 # Yubikey 4 and GnuPG
 
