@@ -1,7 +1,7 @@
 ---
 title: Rice and Beans, for Laziness and Tastiness
 layout: post
-tags: cooking
+tags: [cooking]
 ---
 I generally always bring lunch with me to work.  For the most part, I do this for cost (making is cheaper than buying) and quality (the cafeteria in my building isn't anything to write to the internet about).  For years, my lunches are one of two things:
 

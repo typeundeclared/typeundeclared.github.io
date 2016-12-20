@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Love and Concern for Ada
-tags: software
+tags: [software]
 ---
 *Note: This post is getting submitted, even though its a little rougher than I'd really like.  I've got too many projects on the side, and this just isn't quite getting the time it deserves to be great, so its going to have to be just good as-is.*
 
