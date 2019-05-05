@@ -9,8 +9,8 @@ permalink:        pretty
 title:            "Proportions Don't Matter"
 tagline:          "Recipes are made up, and the proportions don't matter"
 description:      'Made by typeundeclared.'
-url:              https://github.com/typeundeclared/typeundeclared
-baseurl:          ""
+url:              https://typeundeclared.github.io/
+baseurl:          /
 
 author:
   name:           typeundeclared
