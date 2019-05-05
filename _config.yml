@@ -10,7 +10,7 @@ title:            "Proportions Don't Matter"
 tagline:          "Recipes are made up, and the proportions don't matter"
 description:      'Made by typeundeclared.'
 url:              https://github.com/typeundeclared/typeundeclared
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           typeundeclared
